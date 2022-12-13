@@ -1,7 +1,8 @@
 ### Maze Generator in Proceessing/Java.
-This app runs in Processing and generates a unique maze each time. 
-It uses an iterative backtracking algorithm, and currently a player can move a red square throughout the maze.
+<p>This app runs in Processing and generates a unique maze each time. </p>
+It uses an iterative backtracking algorithm, found [here on Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Iterative_implementation). Currently a player can move a red square throughout the maze.
 ![Maze Screenshot](/maze_screenshot.png "Random Maze")
+<img src="/maze_screenshot.png" style="height:50%; width:50%" />
 
 ### TODO
 - Implement other maze generation algorithms
