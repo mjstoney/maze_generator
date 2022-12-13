@@ -5,7 +5,7 @@ It uses an iterative backtracking algorithm, found <a href="https://en.wikipedia
 <img src="/maze_screenshot.png" style="height:50%; width:50%" />
 
 ### TODO
-- Implment a solver to automatically move through the maze
+- Implement a solver to automatically move through the maze
 - Implement other maze generation algorithms
 - Implement a command line interface or GUI to select algorithms
 - Add a randomized start and goal marker for player
